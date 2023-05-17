@@ -42,3 +42,5 @@ I would like to thank the MealDB API for providing the data used in this applica
 If you want to contact me you can reach me at your-email@domain.com.
 
 This project is open for contributions and any constructive feedback is welcomed.
+<img width="380" alt="bigmac" src="https://github.com/crimsix-7/Recipe-App/assets/92998267/1ca65306-b773-4d9e-bd27-3d3abcf165f8">
+<img width="367" alt="myrecipe" src="https://github.com/crimsix-7/Recipe-App/assets/92998267/14c82d87-ee37-4a1d-b6d5-e3e16ed680b4">
